@@ -7,5 +7,3 @@ function daysOfAYear(year) {
   }
 }
 
-// Examples
-console.log(daysOfAYear(2022)); // Output: 365
